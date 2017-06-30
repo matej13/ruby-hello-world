@@ -64,3 +64,4 @@ set -e
 
 echo "---> CUSTOM S2I ASSEMBLE COMPLETE"
 echo "---> TEST123"
+echo "---> TEST IN JULY/2017
