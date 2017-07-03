@@ -65,3 +65,5 @@ set -e
 echo "---> CUSTOM S2I ASSEMBLE COMPLETE"
 echo "---> TEST123"
 echo "---> TEST IN JULY/2017"
+echo "---> TEST on 03.07.2017"
+
