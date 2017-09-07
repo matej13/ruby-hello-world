@@ -1,2 +1,4 @@
 # The default environment for this Ruby application is production
 RACK_ENV=production
+HTTP_PROXY=10.55.1.10:3128
+HTTPS_PROXY=10.55.1.10:3128
